@@ -8,6 +8,7 @@
 #include <Entity.h>
 #include <Settings.h>
 
+
 namespace d3d12hook {
 	ID3D12Device* d3d12Device = nullptr;
 	ID3D12DescriptorHeap* d3d12DescriptorHeapBackBuffers = nullptr;

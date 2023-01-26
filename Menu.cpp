@@ -5,6 +5,7 @@
 #include "Global.h"
 #include <Settings.h>
 
+
 namespace Menu
 {
 	bool bIsOpen = true;
